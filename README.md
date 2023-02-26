@@ -2,21 +2,21 @@
 
 ## Description of Refactor
 
-The challenge of our assignment was to refactor the existing website for "Horiseon Social Solution Services, Inc". We where told to fix and issues affecting their current website and making it more accessible for the public.
+The challenge of our assignment was to refactor the existing website for "Horiseon Social Solution Services, Inc". We where instructed to fix any issues affecting their current website and making it more accessible to the public.
 
 
 ## Table of Contents
 
 - [Refactor](#Refactor)
 - [Screenshots](#Screenshots)
-- [Link](#license)
+- [Link](#Link)
 - [Credits](#credits)
 
 ## Refactor
 
 1. Ensured web browser title read Horiseon
 2. Used structure and semantic HTML elements to make it easy to read, and added the proper headers 
-3. Added alt attributes to all sources that needed it
+3. Added alt attributes to all sources that required it
 4. Removed divs and consolidated the CSS to make it easier to read 
 
 
@@ -30,7 +30,8 @@ Horiseon Website Screenshots.
 
 ## Links
 
--
+- Horiseon Updated Website 
+https://juaisa99.github.io/horiseon/
 
 ## Credits/Resources
 
